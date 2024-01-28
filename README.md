@@ -1,1 +1,1 @@
-# Building-Footprints-Merging-and-Improvement
+#A Tutorial about Building Footprints  (ArcGIS Pro Version) 
