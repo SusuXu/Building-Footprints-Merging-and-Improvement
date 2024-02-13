@@ -16,7 +16,7 @@ This tutorial outlines the process of working with open-sourced building footpri
 
 ### 2. Convert GeoJSON to Shapefile
 
-- In ArcGIS Pro, use the **JSON To Features Tool. Set the Geometry Type Parameter to **Polygon**.
+- In ArcGIS Pro, use the **JSON To Features** Tool. Set the Geometry Type Parameter to **Polygon**.
 
 ### 3. Preprocess Google Open Buildings Data
 
