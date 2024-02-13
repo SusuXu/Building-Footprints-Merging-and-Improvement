@@ -12,17 +12,15 @@ This tutorial outlines the process of working with open-sourced building footpri
 
 - **Microsoft Building Footprints:** [Tutorial Link](https://colab.research.google.com/drive/14L1KgiGlaIWCoTUJCo6jOu-yt_gr0J00?usp=sharing)
 - **Google Open Buildings:** [Tutorial Link](https://colab.research.google.com/drive/1t7GGe8Fyf0ufsZJxDvDsGjJIn4zwLEMO?usp=sharing)
-    - Convert the downloaded data to GeoJSON format.
+- Convert the downloaded data to GeoJSON format.
 
 ### 2. Convert GeoJSON to Shapefile
 
-- In ArcGIS Pro, use the **JSON To Features Tool**.
-    - Set the Geometry Type Parameter to **Polygon**.
+- In ArcGIS Pro, use the **JSON To Features Tool. Set the Geometry Type Parameter to **Polygon**.
 
 ### 3. Preprocess Google Open Buildings Data
 
-- Filter by confidence score.
-    - Extract building footprints with a confidence score threshold of **0.85**.
+- Filter by confidence score. Like extracting building footprints with a confidence score threshold of **0.85**.
 
 ### 4. Merge Building Footprints from Different Sources
 
