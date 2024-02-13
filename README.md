@@ -5,6 +5,7 @@ Author: Runyu Gao (rgao18@jhu.edu)
 ## Overview
 
 This tutorial outlines the process of working with open-sourced building footprints, including downloading, converting, preprocessing, and merging data. Additionally, it covers generating building footprints in regions without open-source data, finding historical world basemap imagery, and rasterizing building footprints. Blue blocks indicate the geoprocessing tool to be used in ArcGIS, and yellow blocks represent the parameters for each tool. The underlined steps provide detailed guidance within this tutorial.
+![Example Image](https://example.com/image.png "Overall Workingflow")
 
 ## Tutorial Steps
 
@@ -17,6 +18,7 @@ This tutorial outlines the process of working with open-sourced building footpri
 ### 2. Convert GeoJSON to Shapefile
 
 - In ArcGIS Pro, use the **JSON To Features** Tool. Set the Geometry Type Parameter to **Polygon**.
+![Example Image](https://example.com/image.png "**JSON To Features")
 
 ### 3. Preprocess Google Open Buildings Data
 
