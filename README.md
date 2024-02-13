@@ -67,5 +67,5 @@ This tutorial outlines the process of working with open-sourced building footpri
 - Utilize the **Polygon to Raster Tool**.
 - Clip to target extent and use the Con tool to generate a binary map.
   
-![Example Image](https://github.com/SusuXu/Building-Footprints-Merging-and-Improvement/blob/main/TutorialPics/pic8.png "Step 8 Tools")
+![Example Image](https://github.com/SusuXu/Building-Footprints-Merging-and-Improvement/blob/main/TutorialPics/pic7.png "Step 8 Tools")
 
