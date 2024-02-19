@@ -12,7 +12,7 @@ This tutorial outlines the process of working with open-sourced building footpri
 
 In our study region in Morocco, 186,715 pixels have buildings in the old OSM building footprint map, in the merged new building footprint map, 410,607 pixels have buildings.​ 237,452 pixels have buildings in the old OSM building footprint map but do not have buildings in the new merged building footprint map. This statistics suggests the great improvement of our workflow in ​the coverage of building footprint map. This tutorial is based on Google Open Building Dataset, The dataset contains 1.8 billion building detections, across an inference area of 58M km2 within Africa, South Asia, South-East Asia, Latin America and the Caribbean.​ It is more complete than OpenStreetMap Buildings and Microsoft Buildings in the covered areas as mentioned above.
 
-Below is an example of the old and new merge building footprint example. The left one is the original OSM data; the middle one is the original Google data, and the left one is the merged result. As we can see, the accuracy and the coverage are much better
+Below is an example of the old and new merge building footprint example. The left one is the original OSM data; the middle one is the original Google data, and the right one is the merged result. As we can see, the accuracy and the coverage are much better
 
 ![Example Image](https://github.com/SusuXu/Building-Footprints-Merging-and-Improvement/blob/main/TutorialPics/pic8.png "Performance Visualization")
 ​
