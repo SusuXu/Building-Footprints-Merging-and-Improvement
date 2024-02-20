@@ -4,7 +4,7 @@ Runyu Gao (rgao18@jhu.edu), Xuechun Li (xli359@jhu.edu), Susu Xu (sxu83@jhu.edu)
 
 ## Overview
 
-This tutorial outlines the process of working with open-sourced building footprints, including downloading, converting, preprocessing, and merging data. Additionally, it covers generating building footprints in regions without open-source data, finding historical world basemap imagery, and rasterizing building footprints. Blue blocks indicate the geoprocessing tool to be used in ArcGIS, and yellow blocks represent the parameters for each tool. The underlined steps provide detailed guidance within this tutorial.
+This tutorial outlines the process of working with open-sourced building footprints, including downloading, converting, preprocessing, and merging data. Additionally, it covers generating building footprints in regions without open-source data, finding historical world basemap imagery, and rasterizing building footprints. The workflow included in this paper is initially built for the DisasterNet model (https://github.com/SusuXu/DisasterNet) Blue blocks indicate the geoprocessing tool to be used in ArcGIS, and yellow blocks represent the parameters for each tool. The underlined steps provide detailed guidance within this tutorial.
 
 ![Example Image](https://github.com/SusuXu/Building-Footprints-Merging-and-Improvement/blob/main/TutorialPics/pic1.png "Overall Workingflow")
 
